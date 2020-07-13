@@ -1,0 +1,4 @@
+D:\Rodri\Facultad\4to año\Simulaciones\Practico\Trabajos Practicos\TP 7\Ejercicio Sala Urgencias\Sistemas dinamicos\Sistemas dinamicos\obj\Debug\Sistemas dinamicos.csprojAssemblyReference.cache
+D:\Rodri\Facultad\4to año\Simulaciones\Practico\Trabajos Practicos\TP 7\Ejercicio Sala Urgencias\Sistemas dinamicos\Sistemas dinamicos\obj\Debug\Sistemas_dinamicos.Properties.Resources.resources
+D:\Rodri\Facultad\4to año\Simulaciones\Practico\Trabajos Practicos\TP 7\Ejercicio Sala Urgencias\Sistemas dinamicos\Sistemas dinamicos\obj\Debug\Sistemas dinamicos.csproj.GenerateResource.cache
+D:\Rodri\Facultad\4to año\Simulaciones\Practico\Trabajos Practicos\TP 7\Ejercicio Sala Urgencias\Sistemas dinamicos\Sistemas dinamicos\obj\Debug\Sistemas dinamicos.csproj.CoreCompileInputs.cache
